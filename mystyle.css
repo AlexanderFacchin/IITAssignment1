@@ -74,57 +74,30 @@ p {
 }
 
 
-#name {
-    float: ;
+#name h1 {
+    font-size: 2.5em;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -6px;
+}
+
+#name h2 {
+    font-size: 2em;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainArea {
+	padding: 0 40px;
 }
 
 #contactDetails {
     float: ;
 }
 
-#contactDetails ul {
-    list-style-type: none;
-    font-size: ;
-    margin-top: ;
+#headshot img {
+	width: 10%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
 }
-
-#contactDetails ul li {
-    margin-bottom: ;
-    color: ;
-}
-
-#contactDetails ul li a, a[href^=tel] {
-	color: ; 
-	text-decoration: ;
-	-webkit-transition: ;
-	-moz-transition: ;
-	-o-transition: ;
-	-ms-transition: ;
-	transition: ;
-}
-
-#contactDetails ul li a:hover { 
-	color: ;
-}
-
-section {
-    border-top: ;
-    padding: ;
-}
-
-.sectionTitle {
-    float: ;
-    width: ;
-}
-
-.sectionContent {
-    font-family: ;
-    font-style: ;
-    font-size: ;
-    color: ;
-}
-
-.sectionTitle img {
-    width: ;
-}
-
