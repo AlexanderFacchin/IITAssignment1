@@ -1,0 +1,130 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+    border:0;
+    font:inherit;
+    font-size:100%;
+    margin:0;
+    padding:0;
+    vertical-align:baseline;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+display:block;
+}
+    
+html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+    
+.clear {clear: both;}
+
+.title {
+
+}
+
+.description {
+    
+}
+
+p {
+    font-size: ;
+    line-height: ;
+    margin-bottom: ;
+    color: ;
+}
+
+#CV {
+    width: ;
+    max-width: ;
+    background: ;
+    margin: ;
+}
+
+.mainDetails {
+    padding: ;
+    border-bottom: ;
+    background: ;
+}
+
+#name h1 {
+    font-size: ;
+    font-weight: ;
+    font-family: ;
+    margin-bottom: ;
+}
+
+#name h2 {
+    font-size: ;
+    margin-left: ;
+    font-family: ;
+}
+
+#mainArea {
+    padding: ;
+}
+
+#headshot {
+    width: ;
+    float: ;
+    margin-right: ;
+}
+
+#headshot img {
+    width: ;
+    height: ;
+    -webkit-border-radius: ;
+    border-radius: ;
+}
+
+
+#name {
+    float: ;
+}
+
+#contactDetails {
+    float: ;
+}
+
+#contactDetails ul {
+    list-style-type: none;
+    font-size: ;
+    margin-top: ;
+}
+
+#contactDetails ul li {
+    margin-bottom: ;
+    color: ;
+}
+
+#contactDetails ul li a, a[href^=tel] {
+	color: ; 
+	text-decoration: ;
+	-webkit-transition: ;
+	-moz-transition: ;
+	-o-transition: ;
+	-ms-transition: ;
+	transition: ;
+}
+
+#contactDetails ul li a:hover { 
+	color: ;
+}
+
+section {
+    border-top: ;
+    padding: ;
+}
+
+.sectionTitle {
+    float: ;
+    width: ;
+}
+
+.sectionContent {
+    font-family: ;
+    font-style: ;
+    font-size: ;
+    color: ;
+}
+
+.sectionTitle img {
+    width: ;
+}
+
