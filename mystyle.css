@@ -64,3 +64,68 @@ p {
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 }
+
+#name {
+    float: left;
+}
+
+#contactDetails {
+    float: right;
+}
+
+#contactDetails ul li {
+	margin-bottom: 3px;
+	color: #0B132B;
+}
+
+#contactDetails ul li a, a[href^=tel] {
+	color: #0B132B; 
+	text-decoration: none;
+	-webkit-transition: all .3s ease-in;
+	-moz-transition: all .3s ease-in;
+	-o-transition: all .3s ease-in;
+	-ms-transition: all .3s ease-in;
+	transition: all .3s ease-in;
+}
+
+#contactDetails ul li a:hover { 
+	color: #6FFFE9;
+}
+
+
+#mainArea {
+	padding: 0 40px;
+}
+
+#contactDetails {
+    float: ;
+}
+
+#headshot img {
+	width: 10%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+section {
+    border-top: ;
+    padding: ;
+}
+
+.sectionTitle {
+    float: ;
+    width: ;
+}
+
+.sectionContent {
+    font-family: ;
+    font-style: ;
+    font-size: ;
+    color: ;
+}
+
+.sectionTitle img {
+    width: ;
+}
+
